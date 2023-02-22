@@ -1,0 +1,20 @@
+body {
+    background-color: aliceblue;
+    color:rgb(19, 17, 17);
+}
+
+a {
+    color: rgb(25, 17, 63);
+}
+a:visited {
+    color: rgb(93, 26, 218);
+}
+a:hover, a:active {
+    color: #608cec;
+}
+table,tr,td,caption {
+    border: 1.5px solid #9b1414;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
